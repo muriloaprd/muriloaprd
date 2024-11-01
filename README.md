@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning I'm learning to develop software
 - 💞️ I’m looking to collaborate on I want to help develop
 - 📫 How to reach me my email
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: lilo
+- ⚡ Fun fact: I'm obsessed with money
 
 <!---
 muriloaprd/muriloaprd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
